@@ -1,0 +1,31 @@
+div {background-color: #5cf4ff; margin-left: auto; margin-right: auto; width: 80%;}
+body{background-color: rgb(177, 230, 255); width: 1800px; margin-left: auto; margin-right:auto;}
+main {padding: 25px 75px;}
+h1{line-height: 200%; background-color: rgb(88, 207, 253); color: rgba(255, 255, 255, 0.993); text-shadow: 2px 2px 0px #000;text-align: center}
+h2{line-height: 300%;text-align: center;color: rgba(255, 255, 255, 0.993); text-shadow: 2px 2px 0px #000; text-decoration: underline;}
+h3 {line-height: 300%; text-align: left; background-color: #61bbbe; color: rgba(255, 255, 255, 0.993); text-shadow: 2px 2px 0px #000; font-size: 170%;}
+nav {background-color: whitesmoke;text-align: center;line-height: 150%; text-transform: uppercase;}
+p {text-align: justify; text-indent: 30px; word-spacing: 7px; font-size: x-large;}
+footer {text-align: center;line-height:  180%; background-color: #61bbbe; color:whitesmoke}
+address {background-color: #5cf4ff; font-style: italic; font-weight: 700;}
+.PersonalArtGallery {
+border: #5cf4ff;
+margin-bottom: auto;
+width:15%;
+}
+.gallery {
+ 
+width: 540px;
+display: inline-block;
+margin-right: 30px;
+}
+.gallery img{
+    padding: 40px 20px;
+    width: 550px;
+}
+
+.contacto {
+border: #5cf4ff;
+margin-bottom: auto;
+width:15%;
+}
